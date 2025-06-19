@@ -1,7 +1,7 @@
 ![MasterHead](https://media.licdn.com/dms/image/C4E16AQF6KSgs3QpZ3w/profile-displaybackgroundimage-shrink_350_1400/0/1610546690733?e=1705536000&v=beta&t=L2NgpVHD_II9k3GU2TqeDEsniFhEqRSw30bmKuUUWAo)
 <h1 align="center">Hello 👋, I'm Oluwaseun Oyagbile</h1>
 <h3 align="center">I am an Experienced and result-driven Software Engineer and Technology Consultant with a strong history of developing robust and innovative web applications for diverse local and international industries. Adept at driving digital transformation, optimising business processes, and improving efficiency through technology. Proficient in both front-end (ReactJS, NextJS, and VueJS) and back-end technologies (NodeJS, C#, and .NET Framework), consistently delivering high-quality projects within schedule and budget. <br/> #Softwaredeveloper #TechnologyConsultant #DigitalTransformation #ITExpert #TechInnovation</h3>
-<img align="right" alt="Coding" width="400" src="https://blog.railwaymen.org/hs-fs/hubfs/SDLC-CHART.png?width=435&name=SDLC-CHART.png"/>
+<img align="right" alt="Coding" width="400" src="https://spincareer.com/wp-content/uploads/2021/08/shutterstock_1866499273.png"/>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=oyagbileoluwaseun&label=Profile%20views&color=0e75b6&style=flat" alt="oyagbileoluwaseun" /> </p>
