@@ -1,6 +1,6 @@
 ![MasterHead](https://media.licdn.com/dms/image/v2/C4E16AQF6KSgs3QpZ3w/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1610546690733?e=1755734400&v=beta&t=NO-vXVIzeBWXba2GWEbhpWsXwtlJTYtRBQJiRcSEHbI)
 
-<h1 align="center">Hello 👋, I'm Oluwaseun Oyagbile</h1>
+<h1 align="center">Hello 👋, I am Oluwaseun Oyagbile</h1>
 <h3 align="center">I am an Experienced and result-driven Software Engineer and Technology Consultant with a strong history of developing robust and innovative web applications for diverse local and international industries. Adept at driving digital transformation, optimising business processes, and improving efficiency through technology. Proficient in both front-end (ReactJS, NextJS, and VueJS) and back-end technologies (NodeJS, C#, and .NET Framework), consistently delivering high-quality projects within schedule and budget. <br/> #Softwaredeveloper #TechnologyConsultant #DigitalTransformation #ITExpert #TechInnovation</h3>
 <img align="right" alt="Coding" width="400" src="https://software-testing.sdds.ca/assets/images/systems-development-life-cycle-5b15cd2eb264026a826b24c36e0580a5.png"/>
 
