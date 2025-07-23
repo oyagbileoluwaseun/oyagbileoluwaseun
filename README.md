@@ -17,7 +17,7 @@
 
 - 📄 Know about my experiences [https://oyagbileoluwaseun.github.io/website/](https://oyagbileoluwaseun.github.io/website/)
 
-- ⚡ Fun fact **I love Football ⚽**
+- ⚡ Fun fact **I love Football ⚽ **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
