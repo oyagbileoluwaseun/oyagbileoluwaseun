@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **ReactJS, VueJS, NodeJS and WordPress**
 
-- 📫 How to reach me **oyagbileoluwaseunvictor@gmail.com**
+- 📫 How to reach me **https://www.linkedin.com/in/oluwaseunoyagbile**
 
 - 📄 Know about my experiences [https://oyagbileoluwaseun.github.io/website/](https://oyagbileoluwaseun.github.io/website/)
 
