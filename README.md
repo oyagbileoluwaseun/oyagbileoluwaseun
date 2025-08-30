@@ -1,5 +1,5 @@
 <!-- Master Head Image -->
-<p align="left">
+<p align="right">
   <img src="http://oyagbileoluwaseun.me/wp-content/uploads/2025/08/seun.png" alt="MasterHead" width="20%" />
 </p>
 
