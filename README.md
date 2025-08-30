@@ -1,6 +1,6 @@
 <!-- Master Head Image -->
 <p align="center">
-  <img src="http://oyagbileoluwaseun.me/wp-content/uploads/2025/08/seun2.png" alt="MasterHead" width="100%" />
+  <img src="http://oyagbileoluwaseun.me/wp-content/uploads/2025/08/seun2.png" alt="MasterHead" width="40%" />
 </p>
 
 <h1 align="center">Hello 👋, I am Oluwaseun Oyagbile</h1>
