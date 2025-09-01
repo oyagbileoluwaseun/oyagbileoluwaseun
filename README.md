@@ -14,7 +14,7 @@
 
 <p align="left"> <a href="https://twitter.com/oyagbileoluwas1" target="blank"><img src="https://img.shields.io/twitter/follow/oyagbileoluwas1?logo=twitter&style=for-the-badge" alt="oyagbileoluwas1" /></a> </p>
 
-- 💬 Ask me about **ReactJS, VueJS, NodeJS and WordPress**
+- 💬 Ask me about **ReactJS, TypeScript, C#, PHP and WordPress**
 
 - 📫 How to reach me **https://www.linkedin.com/in/oluwaseunoyagbile**
 
