@@ -8,7 +8,7 @@
 <img align="right" alt="Coding" width="400" src="https://software-testing.sdds.ca/assets/images/systems-development-life-cycle-5b15cd2eb264026a826b24c36e0580a5.png"/>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=oyagbileoluwaseun&label=Profile%20views&color=0e75b6&style=flat" alt="oyagbileoluwaseun" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=oyagbileoluwaseun&label=Profile%20views&color=0e75b6&style=flat" alt="oluwaseun" /> </p>
 
 
 
