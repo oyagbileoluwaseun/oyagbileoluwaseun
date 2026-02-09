@@ -20,7 +20,7 @@
 
 - 📄 Know about my experiences [https://oyagbileoluwaseun.github.io/website/](https://oyagbileoluwaseun.github.io/website/)
 
-- ⚡ Fun fact **I love Football ⚽, Music and Travelling **
+- ⚡ Fun fact **I love Football ⚽, Board games, Music and Travelling **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
